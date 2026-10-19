@@ -1,9 +1,7 @@
 //===========================================================================
 // game name: shapes pazzle 
-// the pople in this project:-
-// 1- Firas Abdulaziz Ahmed - 446003675 
-// 2- Mohammed Abdullah Alshamrani - 446003660
-// 3- Omar Abdullatif Alzahrani - 445006514 
+// Group project (3 members) - Computer Graphics course, Umm Al-Qura University
+// Author: Omar Alzahrani 
 // 
 // Description:-
 // the game is about build something with shapes
